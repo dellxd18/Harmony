@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.18775-b31b1b.svg)](https://arxiv.org/abs/2511.21579)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.21579-b31b1b.svg)](https://arxiv.org/abs/2511.21579)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sjtuplayer.github.io/projects/Harmony/)
 
 </div>
